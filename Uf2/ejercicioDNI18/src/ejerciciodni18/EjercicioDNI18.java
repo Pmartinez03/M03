@@ -57,6 +57,7 @@ public class EjercicioDNI18 {
         }
        
        
+        System.out.println("GIT");
         return '!';
     }
     
